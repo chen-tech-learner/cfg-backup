@@ -1,0 +1,23 @@
+name: check-py-syntax
+on:
+  push:
+    paths:
+      - 'py/**.py'
+
+jobs:
+  syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 校验py语法，删除语法损坏脚本
+        run: |
+          for f in py/*.py; do
+            if ! python3 -m py_compile "$f"; then
+              echo "remove bad file: $f"
+              git rm "$f"
+            fi
+          done
+          git config user.name auto‑robot
+          git config user.email robot@example.com
+          git commit -m "auto remove syntax broken py" || true
+          git push
