@@ -3,12 +3,15 @@ on:
   push:
     paths:
       - 'py/**.py'
+  # 每月 1号、16号 UTC时间0点执行（对应国内早上8点左右）
+  schedule:
+    - cron: '0 0 1,16 * *'
 
 jobs:
   syntax:
     runs-on: ubuntu-latest
     steps:
-      - name: 拉取仓库代码
+      - name: 拉取仓库全部代码
         uses: actions/checkout@v4
 
       - name: Python语法校验，删除语法损坏py
@@ -22,5 +25,5 @@ jobs:
 
           git config --global user.name auto‑robot
           git config --global user.email robot@example.com
-          git commit -m "自动移除语法损坏py" || true
+          git commit -m "定时任务：自动移除语法损坏py" || true
           git push
