@@ -3,7 +3,6 @@ on:
   push:
     paths:
       - 'py/**.py'
-  # 每月 1号、16号 UTC时间0点执行（对应国内早上8点左右）
   schedule:
     - cron: '0 0 1,16 * *'
 
@@ -14,16 +13,16 @@ jobs:
       - name: 拉取仓库全部代码
         uses: actions/checkout@v4
 
-      - name: Python语法校验，删除语法损坏py
+      - name: Python语法校验，自动删除语法损坏py
         run: |
           for f in py/*.py; do
             if ! python3 -m py_compile "$f"; then
-              echo "删除语法错误文件：$f"
+              echo "❌发现语法错误，自动删除：$f"
               git rm "$f"
             fi
           done
 
           git config --global user.name auto‑robot
           git config --global user.email robot@example.com
-          git commit -m "定时任务：自动移除语法损坏py" || true
+          git commit -m "定时/推送：自动移除语法损坏py" || true
           git push
