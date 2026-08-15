@@ -44,13 +44,6 @@
     "api":"https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/py/4K影视.py",
     "searchable":1
   },
-   {
-    "key":"test03",
-    "name":"818黑料网",
-    "type":3,
-    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/py/818黑料网.py",
-    "searchable":1
-   },
     {
       "key": "本地",
       "name": "📁本地🔹文件",
