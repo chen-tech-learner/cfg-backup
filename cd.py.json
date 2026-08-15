@@ -30,6 +30,27 @@
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/4k.py",
     "searchable": 1
     },
+     {
+    "key":"test01",
+    "name":"456电影网",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/py/456电影网.py",
+    "searchable":1
+ },
+ {
+    "key":"test02",
+    "name":"4K影视",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/py/4K影视.py",
+    "searchable":1
+  },
+   {
+    "key":"test03",
+    "name":"818黑料网",
+    "type":3,
+    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/py/818黑料网.py",
+    "searchable":1
+   },
     {
       "key": "本地",
       "name": "📁本地🔹文件",
