@@ -4,7 +4,8 @@ on:
     paths:
       - 'py/**.py'
   schedule:
-    - cron: '0 0 1,16 * *'
+    - cron: '0 0,12,18 * * *'
+  workflow_dispatch:
 
 jobs:
   syntax:
@@ -19,15 +20,15 @@ jobs:
         run: |
           for f in py/*.py; do
             if ! python3 -m py_compile "$f"; then
-              echo "❌删除坏文件：$f"
+              echo "❌删除损坏文件: $f"
               rm -f "$f"
             fi
           done
 
       - name: 提交变更回仓库
         run: |
-            git config --global user.name auto‑robot
-            git config --global user.email robot@example.com
-            git add .
-            git commit -m "自动移除语法损坏py文件" || true
-            git push
+          git config --global user.name auto‑robot
+          git config --global user.email robot@example.com
+          git add .
+          git commit -m "auto remove bad py files" || true
+          git push
