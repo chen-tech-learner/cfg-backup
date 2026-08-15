@@ -12,17 +12,22 @@ jobs:
     steps:
       - name: 拉取仓库全部代码
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Python语法校验，自动删除语法损坏py
+      - name: 检测并删除语法错误py
         run: |
           for f in py/*.py; do
             if ! python3 -m py_compile "$f"; then
-              echo "❌发现语法错误，自动删除：$f"
-              git rm "$f"
+              echo "❌删除坏文件：$f"
+              rm -f "$f"
             fi
           done
 
-          git config --global user.name auto‑robot
-          git config --global user.email robot@example.com
-          git commit -m "定时/推送：自动移除语法损坏py" || true
-          git push
+      - name: 提交变更回仓库
+        run: |
+            git config --global user.name auto‑robot
+            git config --global user.email robot@example.com
+            git add .
+            git commit -m "自动移除语法损坏py文件" || true
+            git push
