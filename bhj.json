@@ -1,4 +1,4 @@
-﻿{
+{
   "lives": [
   {
    "name": "DG直播",
@@ -34,11 +34,6 @@
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   }
- ],
- "categories": [
-  "福利",
-  "福利片",
-  "伦理片"
  ],
  "sites": [
    {
@@ -77,7 +72,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/XYQH/18AV.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/XYQH/18AV.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
  },
   {
@@ -88,7 +83,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/18mm.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/18mm.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
  },
   {
@@ -99,7 +94,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yaya.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yaya.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -110,7 +105,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yaya1.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yaya1.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -121,7 +116,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yaya2.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yaya2.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -132,7 +127,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/881.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/881.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
  },
   {
@@ -143,7 +138,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/now1.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/now1.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
  },
   {
@@ -154,7 +149,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/now2.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/now2.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -165,7 +160,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类1.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类1.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -176,7 +171,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类2.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类2.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -187,7 +182,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类3.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类3.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -198,7 +193,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类4.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类4.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -209,7 +204,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类5.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类5.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -220,7 +215,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类6.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/300分类6.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -231,7 +226,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/lover.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/lover.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -242,7 +237,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/sgp.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/sgp.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -253,7 +248,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a4%a7%e4%bc%97.json"
+   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a4%a7%e4%bc%97.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -264,7 +259,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/zhyz.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/zhyz.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -275,7 +270,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/水果派.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/水果派.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -286,7 +281,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/猫咪XYQH.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/猫咪XYQH.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -297,7 +292,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/猫咪XBB.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/猫咪XBB.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
 
@@ -309,7 +304,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/香蕉.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/香蕉.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -320,7 +315,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/小丑撸.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/小丑撸.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -331,7 +326,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/国产传媒.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/国产传媒.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -342,7 +337,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/老鸭.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/老鸭.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -353,7 +348,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/掏爱撸.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/掏爱撸.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -364,7 +359,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/国产屋.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/国产屋.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -375,7 +370,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/爱看影院.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/爱看影院.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -386,7 +381,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/GAOAA.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/GAOAA.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar" 
   },
   {
@@ -397,7 +392,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/黄仓库.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/XB/黄仓库.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
  
@@ -409,7 +404,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/四虎.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/四虎.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar" 
   },
   {
@@ -420,7 +415,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉解说.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉解说.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -431,7 +426,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉资源.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉资源.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -442,7 +437,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉超清.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉超清.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -453,7 +448,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉国产.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉国产.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -464,7 +459,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉久久热.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉久久热.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -475,7 +470,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉废柴.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉废柴.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -486,7 +481,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉直播.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉直播.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -497,7 +492,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉搜索.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉搜索.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -508,7 +503,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/西瓜影视.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/西瓜影视.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -519,7 +514,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/黄仓库.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/黄仓库.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -530,7 +525,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/banban.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/banban.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -541,7 +536,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/爱看影院️.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/爱看影院️.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -552,7 +547,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/麻豆映画.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/麻豆映画.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -563,7 +558,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/香蕉.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -574,7 +569,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/性欲轮回.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/性欲轮回.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -585,7 +580,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/性欲轮回[分类].json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/性欲轮回[分类].json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -596,7 +591,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/精东影业1.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/精东影业1.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -607,7 +602,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/精东影业2.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/精东影业2.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -618,7 +613,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/AVideo.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/AVideo.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -629,7 +624,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/黄瓜.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/黄瓜.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -640,7 +635,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/xBPQ/%E5%A5%87%E7%91%9E.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/xBPQ/%E5%A5%87%E7%91%9E.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -651,7 +646,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/xBPQ/qq.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/xBPQ/qq.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   
@@ -663,7 +658,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%90%89%e5%88%a9.json"
+   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%90%89%e5%88%a9.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -674,7 +669,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a5%87%e7%91%9e.json"
+   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a5%87%e7%91%9e.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -685,7 +680,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e9%95%bf%e5%9f%8e.json"
+   "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e9%95%bf%e5%9f%8e.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -696,7 +691,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yddb.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/yddb.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -707,7 +702,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/AVideo.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/AVideo.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -718,7 +713,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/banan.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/banan.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -729,7 +724,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/GAOAA.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/GAOAA.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -740,7 +735,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/天天直播.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/天天直播.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -751,7 +746,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/天天综合.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/天天综合.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -762,7 +757,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/叫床吧.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/叫床吧.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -773,7 +768,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/右手影院.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/右手影院.json",
     "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -784,7 +779,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/四虎影院.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/四虎影院.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -795,7 +790,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/左临右射.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/左临右射.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -806,7 +801,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/色花堂.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/色花堂.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -817,7 +812,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/西瓜影视.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/西瓜影视.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -828,7 +823,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/实时直播.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/实时直播.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -839,7 +834,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/性欲轮回.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/性欲轮回.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -850,7 +845,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/性欲轮回[分类].json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/性欲轮回[分类].json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -861,7 +856,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/香蕉视频.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/香蕉视频.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -872,7 +867,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/掏爱撸.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/掏爱撸.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar" 
   },
   {
@@ -883,7 +878,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/麻豆映画.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/麻豆映画.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -894,7 +889,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/黄瓜TV.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/黄瓜TV.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -905,7 +900,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/黄仓库.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/黄仓库.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -916,7 +911,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉AV解说.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉AV解说.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -927,7 +922,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉久久热.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉久久热.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -938,7 +933,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉中文字幕.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉中文字幕.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -949,7 +944,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉国产传媒.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉国产传媒.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -960,7 +955,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉实时直播.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉实时直播.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -971,7 +966,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉麻豆女优.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉麻豆女优.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -982,7 +977,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉超清资源.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉超清资源.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -993,7 +988,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉废柴网.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/新香蕉废柴网.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1004,7 +999,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优AV直播.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优AV直播.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1015,7 +1010,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优AV解说.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优AV解说.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1026,7 +1021,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优久久热资源.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优久久热资源.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1037,7 +1032,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优中文资源.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优中文资源.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1048,7 +1043,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优国产传媒.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优国产传媒.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1059,7 +1054,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优直播.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优直播.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1070,7 +1065,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优麻豆女优.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优麻豆女优.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1081,7 +1076,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优超清资源.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优超清资源.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1092,7 +1087,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优废柴网资源.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/聚优废柴网资源.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1103,7 +1098,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/爱污传媒.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/爱污传媒.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1114,7 +1109,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/爱看影院.json"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/TVBOXZY/main/xBPQ/爱看影院.json",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
    },
   
@@ -1126,7 +1121,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/猫了个咪.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/猫了个咪.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1137,7 +1132,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/18av.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/18av.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1148,7 +1143,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/Missav.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/Missav.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1159,7 +1154,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/跑TV.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/跑TV.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1170,7 +1165,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/banan.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/banan.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1181,7 +1176,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/养端.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/养端.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1192,7 +1187,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/吸瓜.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/吸瓜.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1203,7 +1198,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/朱古力.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/朱古力.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
@@ -1214,7 +1209,7 @@
    "searchable": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/玩偶姐姐.js"
+   "ext": "https://gh-proxy.org/raw.githubusercontent.com/c120487/00/main/ext/玩偶姐姐.js",
    "jar": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/bhj_spider.jar"
   },
   {
